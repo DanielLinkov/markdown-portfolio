@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+1. Запомни едно
+	1. Хипхопа ми е много по-добър
+	2. от хипхопа ти
+
+* Purple rain
+* Blue rain
+
